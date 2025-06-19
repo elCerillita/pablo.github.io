@@ -3,13 +3,13 @@
 ├── _data
 │   └── navigation.yml # You can edit the top-left nav bar from here.
 ├── _pages # From here you can add or remove the main pages.
-├── _config.yml
 ├── _posts # Inside posts by creating a md files you create the posts.
 │   └── yyyy-mm-dd-title.md
-└── assets
-    └── css
-    └── img
-        └── title/image.png
+├── assets
+│   └── css
+│   └── img
+│       └── title/image.png
+└── _config.yml # Main file to edit the page.
 ```
   ## Post template
 
